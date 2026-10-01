@@ -1,5 +1,7 @@
 # Luro – Personal Finance App
 
+> Projeto encerrado. Congelado intencionalmente após cumprir o objetivo de estudo de arquitetura.
+
 Aplicativo de finanças pessoais construído como projeto de estudo arquitetural. Está em produção em [luro.alexarnoni.com](https://luro.alexarnoni.com), mas não está em desenvolvimento ativo.
 
 O foco do projeto foi construir uma base técnica sólida — segurança, infra, boas práticas — mais do que escalar um produto.
